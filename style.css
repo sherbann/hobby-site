@@ -1,0 +1,26 @@
+body
+{
+    background-color: lightblue;
+}
+
+h1
+{
+    color: white;
+    text-align: center;
+}
+
+p
+{
+    background-color: yellowgreen;
+    font-size: large;
+    margin:0;
+}
+.middle
+{
+   text-align: center;
+}
+
+#special
+{
+    background-color: pink;
+}
