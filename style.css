@@ -1,0 +1,30 @@
+body
+{
+    background-color: lightblue;
+}
+
+h1
+{
+    color: white;
+    text-align: center;
+}
+
+p
+{
+    background-color: yellowgreen;
+    text-size-adjust:inherit;
+    margin:0;
+}
+.middle
+{
+   text-align: center;
+}
+.side > img {
+    margin-left: 60px;
+    max-width: 80%;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    image-resolution: 300px;
+    max-height: 500px;
+    
+}

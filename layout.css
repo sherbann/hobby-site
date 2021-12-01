@@ -1,0 +1,31 @@
+#container
+{
+   
+    background-color: lightblue;
+}
+#header
+{
+    width:100%;
+    
+    background-color: blue;
+    float:left;
+    text-align:center;
+    font-size: 3vw;
+}
+#main
+{
+    width: 50%;
+    height:100vw;
+    background-color: lightgreen;
+    float:left;
+    font-size:3vw;
+    
+}
+#sidePanel
+{
+    width:50%; 
+    height:100vw;
+    background-color: lightsalmon;
+    float:right;
+    font-size:3vw;
+}
